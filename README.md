@@ -1,4 +1,4 @@
-# INTRODUCTION UNITY
+# UNITY INTRODUCTION
 
 - Prefabs
 - PhysicsMaterial2D (here the bounce effect)
